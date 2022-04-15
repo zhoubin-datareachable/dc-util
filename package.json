@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "react": "^18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhoubin-datareachable/dc-util.git"
   }
 }
